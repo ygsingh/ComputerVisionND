@@ -1,7 +1,9 @@
 # Computer Vision Nanodegree
 
-This program is designed to enhance your existing machine learning and deep learning skills with the addition of computer vision theory and programming techniques. These computer vision skills can be applied to various applications such as image and video processing, autonomous vehicle navigation, medical
-diagnostics, smartphone apps, and much more.
+This program is designed to enhance your existing machine learning and deep learning skills with the addition of computer vision theory and programming techniques. These computer vision skills can be applied to various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, smartphone apps, and much more. 
+
+## Reference Material
+- Code exercises and materials for Udacity's Computer Vision Nanodegree program is available [here](https://github.com/udacity/CVND_Exercises).
 
 
 ## Course 1: Introduction to Computer Vision
