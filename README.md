@@ -37,7 +37,7 @@ Combine CNN and RNN knowledge to build a deep learning model that produces capti
 ### Project 3: Landmark Detection and Tracking
 Use feature detection and keypoint descriptors to build a map of the environment with SLAM (simultaneous localization and mapping). Implement a robust method for tracking an object over time, using elements of probability, motion models, and linear algebra.
 
-## Exercises
+## Exercises - TODO
 
 * [Image Representation & Classification](exercises/1_1_Image_Representation) - In this exercise, I learn how images are represented numerically and implement image processing techniques, such as color masking and binary classification.
 * [Convolutional Filters and Edge Detection](exercises/1_2_Convolutional_Filters_Edge_Detection) - In this exercise, I learn about frequency in images and implement my own image filters for detecting edges and shapes in an image. Use Haar cascade classifiers from the OpenCV library to perform face detection.
@@ -48,7 +48,7 @@ Use feature detection and keypoint descriptors to build a map of the environment
 * [LSTMs](exercises/2_4_LSTMs) - In this exercise, I learn about Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long-term memory. Implement a Character-Level LSTM model.
 * [Attention Mechanisms](exercises/2_6_Attention) -  Todo.
 
-##  Localization Exercises
+##  Localization Exercises - TODO
 
 * [Optical Flow](localization_exercises/4_1_Optical_Flow) - In this exercise, I learn about and implement Optical Flow.
 * [Robot Localization](localization_exercises/4_2_Robot_Localization) - In this exercise, I learn how to implement a Bayesian filter to locate a robot in space and represent uncertainty in robot motion.
