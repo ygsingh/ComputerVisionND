@@ -1,6 +1,6 @@
 # Computer Vision Nanodegree
 
-This program is designed to enhance your existing machine learning and deep learning skills with the addition of computer vision theory and programming techniques. These computer vision skills can be applied to various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, smartphone apps, and much more.
+This program is designed to enhance your existing machine learning and deep learning skills with the addition of computer vision theory and programming techniques. These computer vision skills can be applied to various applications such as image and video processing, autonomous vehicle navigation, medical diagnostics, smartphone apps, and much more. This is the repository of my exercises and projects for this nanodegree.
 
 ## Reference Material
 - Code exercises and materials for Udacity's Computer Vision Nanodegree program is available [here](https://github.com/udacity/CVND_Exercises).
@@ -41,11 +41,11 @@ Use feature detection and keypoint descriptors to build a map of the environment
 
 * [Image Representation & Classification](exercises/1_1_Image_Representation) - In this exercise, I learn how images are represented numerically and implement image processing techniques, such as color masking and binary classification.
 * [Convolutional Filters and Edge Detection](exercises/1_2_Convolutional_Filters_Edge_Detection) - In this exercise, I learn about frequency in images and implement my own image filters for detecting edges and shapes in an image. Use Haar cascade classifiers from the OpenCV library to perform face detection.
-* [Types of Features & Image Segmentation](exercises/1_3_Types_of_Features_Image_Segmentation) - In this exercise, I program a corner detector and learn techniques, like k-means clustering, for segmenting an image into unique parts. 
+* [Types of Features & Image Segmentation](exercises/1_3_Types_of_Features_Image_Segmentation) - In this exercise, I program a corner detector and learn techniques, like k-means clustering, for segmenting an image into unique parts.
 * [Feature Vectors](exercises/1_4_Feature_Vectors) - In this exercise, I learn how to describe objects and images using feature vectors (ORB, FAST, BRIEF, HOG).
 * [CNN Layers and Feature Visualization](exercises/1_5_CNN_Layers) - In this exercise, I define and train my own convolution neural network for clothing recognition. Learn to use feature visualization techniques to see what the network had learned.
 * [YOLO](exercises/2_2_YOLO) - In this exercise, I learn about the YOLO (You Only Look Once) multi-object detection model and work with a YOLO implementation. Implement YOLO to work with my webcam.
-* [LSTMs](exercises/2_4_LSTMs) - In this exercise, I learn about Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long-term memory. Implement a Character-Level LSTM model. 
+* [LSTMs](exercises/2_4_LSTMs) - In this exercise, I learn about Long Short-Term Memory Networks (LSTM), and similar architectures which have the benefits of preserving long-term memory. Implement a Character-Level LSTM model.
 * [Attention Mechanisms](exercises/2_6_Attention) -  Todo.
 
 ##  Localization Exercises
